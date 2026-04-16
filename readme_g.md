@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E5FF&center=true&width=435&lines=LOGGING+IN...;WELCOME,+PIPELOL" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E5FF&center=true&width=435&lines=LOGGING+IN...;WELCOME,+PIPELOL" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <span style="color: #00E5FF;">[PLAYER]:</span> Pipelol  
 <span style="color: #00E5FF;">[CLASS]:</span> Software & IA Student  
 <span style="color: #00E5FF;">[LOCATION]:</span> Bogotá, Sector Colombia  
-<span style="color: #558B2F;">> "Como Sinon, aprendo a apuntar antes de disparar. Si fallo, el error no me detiene, solo me ayuda a ajustar la mira para el siguiente intento."</span>
+<span style="color: #558B2F;">> "Como Sinon, Si fallo, el error no me detiene, solo me ayuda a ajustar la mira para el siguiente intento."</span>
 </pre>
 
 </div>
@@ -31,15 +31,15 @@
 
 ### 🔫 Arma Principal (Main Stack)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 ### 🔪 Armas Secundarias (Web Development)
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
 ---
@@ -56,8 +56,8 @@
 ## 🎵 Current BGM
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-es/track/6RidxKPzPY91OK4CX9mpfG?si=ceb43eaa90b84281">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=tu_spotify_id&cover_image=true&theme=natemoo-re" alt="Spotify BGM" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0t4linwmtf11zeb0vkxq2c28b&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0t4linwmtf11zeb0vkxq2c28b&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true" alt="Spotify BGM" />
   </a>
 </p>
 
