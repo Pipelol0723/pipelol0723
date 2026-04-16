@@ -53,7 +53,7 @@
 
 ---
 
-## 🎵 Current BGM (SBC Glicken)
+## 🎵 Current BGM
 
 <p align="center">
   <a href="https://open.spotify.com/intl-es/track/6RidxKPzPY91OK4CX9mpfG?si=ceb43eaa90b84281">
