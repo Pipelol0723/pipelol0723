@@ -9,7 +9,7 @@
   </span>
   <br><br>
   <!-- 🔁 Reemplaza esta URL con tu gif de Sinon subido a tu propio repositorio de GitHub -->
-  <img src="https://media.tenor.com/bOBdxFOMnKsAAAAd/sinon-sao.gif" width="380" alt="Sinon - Sword Art Online" />
+  <img src="https://github.com/Pipelol0723/pipelol0723_data/blob/main/shinon.gif?raw=true" width="380" alt="Sinon - Sword Art Online" />
 </p>
 
 ## 🎯 Sobre mí
