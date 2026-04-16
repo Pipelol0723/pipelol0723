@@ -1,56 +1,64 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Pipelol" alt="Typing SVG" /></a></h1>
-
 <p align="center">
-  <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=28&duration=4000&pause=5000&color=00BFFF&center=true&width=550&lines=El+fracaso+es+un+paso+m%C3%A1s+cerca" alt="Typing SVG" /><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=28&duration=4000&pause=5000&color=00BFFF&center=true&width=550&lines=al+%C3%A9xito+que+no+intentar+nada." alt="Typing SVG" /><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=28&duration=4000&pause=5000&color=00BFFF&center=true&width=550&lines=Si+no+lo+s%C3%A9%2C+lo+aprendo." alt="Typing SVG" /><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=28&duration=4000&pause=5000&color=00BFFF&center=true&width=550&lines=Si+fallo%2C+lo+vuelvo+a+intentar." alt="Typing SVG" />
-  </span>
-  <br><br>
-  <!-- 🔁 Reemplaza esta URL con tu gif de Sinon subido a tu propio repositorio de GitHub -->
-  <img src="https://github.com/Pipelol0723/pipelol0723_data/blob/main/shinon.gif?raw=true" width="380" alt="Sinon - Sword Art Online" />
+  <img src="https://github.com/Pipelol0723/pipelol0723_data/blob/main/shinon.gif?raw=true" width="600" alt="Sinon Tactical Gif" />
 </p>
 
-## 🎯 Sobre mí
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E5FF&center=true&width=435&lines=LOGGING+IN...;WELCOME,+PIPELOL" alt="Typing SVG" /></a>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=22&duration=4000&pause=2000&color=558B2F&center=true&width=600&lines=UN+DISPARO,+UNA+VIDA.;PRECISI%C3%93N+EN+CADA+L%C3%8DNEA.;HECATE+II+CALIBRADA." alt="Typing SVG" />
+</p>
+
+---
+
+<div align="center">
+
+## 🎯 Profile Status: Sniper Elite
 
 <pre>
-<span style="color: deepskyblue;">+ 👋 Soy Pipelol — desarrollador en entrenamiento.</span>
-<span style="color: deepskyblue;">+ 🧠 Estudiante de Software & IA. Mis objetivos actuales:</span>
-<span style="color: #29B6F6;">- 🐍 Python</span>
-<span style="color: #29B6F6;">- ⚙️  C++</span>
-<span style="color: #29B6F6;">- 🎨 HTML & CSS</span>
-<span style="color: #29B6F6;">- ⚡ JavaScript</span>
-<span style="color: deepskyblue;">+ 🔭 Como Sinon, aprendo a apuntar antes de disparar.</span>
-<span style="color: deepskyblue;">+ 🤖 Explorando el mundo de la Inteligencia Artificial.</span>
-<span style="color: deepskyblue;">+ ✨ El error no me detiene — me afina la puntería.</span>
-<span style="color: orange;">? ¿No sé algo? Lo aprendo.</span>
-<span style="color: orange;">! ¿Fallé? Lo vuelvo a intentar.</span>
+<span style="color: #00E5FF;">[PLAYER]:</span> Pipelol  
+<span style="color: #00E5FF;">[CLASS]:</span> Software & IA Student  
+<span style="color: #00E5FF;">[LOCATION]:</span> Bogotá, Sector Colombia  
+<span style="color: #558B2F;">> "Como Sinon, Si fallo, el error no me detiene, solo me ayuda a ajustar la mira para el siguiente intento."</span>
 </pre>
+
+</div>
 
 ---
 
-### 🧰 Tecnologías y Herramientas
+## 🛠 Loadout (Equipamiento Técnico)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+### 🔫 Arma Principal (Main Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+### 🔪 Armas Secundarias (Web Development)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 Combat Statistics (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipelol0723&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipelol0723&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pipelol0723&show_icons=true&theme=radical&rank_icon=github&border_color=558B2F&icon_color=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipelol0723&layout=compact&theme=radical&border_color=558B2F&title_color=00E5FF" width="48%" />
+</p>
+
+---
+
+## 🎵 Current BGM
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0t4linwmtf11zeb0vkxq2c28b&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0t4linwmtf11zeb0vkxq2c28b&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true" alt="Spotify BGM" />
+  </a>
 </p>
 
 ---
@@ -59,15 +67,10 @@
   <img src="https://raw.githubusercontent.com/Snoopy1866/Snoopy1866/main/profile-contrib-snake/github-snake.svg" alt="snake gif" />
 </p>
 
----
-
-### 🚀 ¡Gracias por visitar mi perfil!
-
-<hr>
 <p align="center">
-  <strong>🎯 Pipelol0723</strong><br>
+  <strong>🎯 Pipelol0723 | Accuracy: 99.9%</strong><br>
   📬 Contacto: <a href="mailto:pipelol0723@gmail.com">pipelol0723@gmail.com</a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pipelol0723&label=Visitas&color=00BFFF&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Pipelol0723&label=Targets_Detected&color=00BFFF&style=flat-square" alt="Profile views"/>
 </p>
