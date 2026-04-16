@@ -18,7 +18,8 @@
 <span style="color: #00E5FF;">[PLAYER]:</span> Pipelol  
 <span style="color: #00E5FF;">[CLASS]:</span> Software & AI Student  
 <span style="color: #00E5FF;">[LOCATION]:</span> Bogotá, Sector Colombia  
-<span style="color: #558B2F;">> "Como Sinon, aprendo a apuntar antes de disparar. Si fallo, el error no me detiene, solo me ayuda a ajustar la mira para el siguiente intento."</span>
+<span style="color: #558B2F;">> "Como Sinon, aprendo a apuntar antes de disparar. Si fallo, 
+  el error no me detiene, solo me ayuda a ajustar la mira para el siguiente intento."</span>
 </pre>
 
 ---
